@@ -58,6 +58,10 @@ img {
   border-bottom: 1px solid #4b4b4b;
 }
 
+.nav-item a:hover {
+  text-decoration: underline !important;
+  color: wheat !important;
+}
 
 /* images-central content */
 
